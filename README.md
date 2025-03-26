@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
-<h3 align="center">"Where tech meets passion | Backend Development(Node, Express, Spring), Cloud Computing (AWS, Azure, GCP), DevOps, and Containers | Exploring FinTech and making tech more accessible 🌟</h3>
+<h3 align="center">Where tech meets passion | Backend Development(Node, Express, Spring), Cloud Computing (AWS, Azure, GCP), DevOps, and Containers | Exploring FinTech and making tech more accessible 🌟</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
