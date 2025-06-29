@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Spring Boot**.
 - 👨‍💻 All of my projects are available at [my portfolio](https://ut-neu-portfolio.netlify.app/).
 - 💬 Ask me about **Cloud Computing, DevOps, and Tech Innovations**.
-- 📫 How to reach me: **phoenix.fireup7845@gmail.com**
+- 📫 How to reach me: **kumar.work.1574@outlook.com**
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1byb9lMrNIAl0cgUYNsaWal9g2agbbwRU/view?usp=sharing)
 - ⚡ **"Exploring The Digital World One Byte at a Time, where curiosity Meets Innovation"**
 
