@@ -8,10 +8,10 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Spring Boot**.
+- 🌱 I'm currently learning **Spring Boot**.
 - 👨‍💻 All of my projects are available at [my portfolio](https://ut-neu-portfolio.netlify.app/).
 - 💬 Ask me about **Cloud Computing, DevOps, and Tech Innovations**.
-- 📫 How to reach me: **kumar.work.1574@outlook.com**
+- 📫 How to reach me: **<a href="mailto:kumar.work.1574@outlook.com?subject=Hello%20Utkarsh&body=Hi%20there!" target="_blank">kumar.work.1574@outlook.com</a>**
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1byb9lMrNIAl0cgUYNsaWal9g2agbbwRU/view?usp=sharing)
 - ⚡ **"Exploring The Digital World One Byte at a Time, where curiosity Meets Innovation"**
 
@@ -20,22 +20,22 @@
 ## Connect with me
 <div align="center">
   <a href="https://linkedin.com/in/utkarsh-kumar-a42028251/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/resilient_ut" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.leetcode.com/u/ut2sonic/" target="_blank">
-    <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.hackerrank.com/profile/kumar_utkarsh_11" target="_blank">
-    <img src="https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" style="margin-bottom: 5px;" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/kumarut07" target="_blank">
-    <img src="https://img.shields.io/badge/geeksforgeeks-%23298D46.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks" style="margin-bottom: 5px;" />
   </a>
   <a href="https://kaggle.com/nexus786" target="_blank">
-    <img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" />
   </a>
 </div>
 
