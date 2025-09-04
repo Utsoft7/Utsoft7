@@ -24,27 +24,40 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
+
+<!-- Optional: Keep this as a visual divider, or replace with '---' for a simpler line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎯 **About Me**
 -   🌱 I'm currently learning **Spring Boot**.
--   👨‍💻 All of my projects are available at **my portfolio**.
+-   👨‍💻 All of my projects are available at **[my portfolio](YOUR_PORTFOLIO_LINK_HERE)**. <!-- FIX: Added a link -->
 -   💬 Ask me about **Cloud Computing, DevOps, and Tech Innovations**.
 -   📫 How to reach me: **kumar.work.1574@outlook.com**
--   📄 Know about my experiences: **My Resume**
+-   📄 Know about my experiences: **[My Resume](YOUR_RESUME_LINK_HERE)**. <!-- FIX: Added a link -->
 -   ⚡ **"Exploring The Digital World One Byte at a Time, where curiosity Meets Innovation"**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+--- <!-- FIX: Replaced the second GIF with a cleaner Markdown horizontal rule -->
+
 ## 🛠️ **My Skill Set**
+
+<!-- FIX: Replaced the table with individual centered skill icon groups for better rendering and responsiveness -->
 <div align="center">
-| Cloud & DevOps                                                                                                                                                                                                                                                                                                                                                                                                    | Languages & Frameworks                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Frontend & Databases                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,jenkins,git,linux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=java,python,go,js,nodejs,express,spring,react&theme=dark" /> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,mysql,postgres,mongodb,oracle,postman&theme=dark" /> |
+  <h3>Cloud & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,jenkins,git,linux&theme=dark" />
+
+  <h3>Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=java,python,go,js,nodejs,express,spring,react&theme=dark" />
+
+  <h3>Frontend & Databases</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,mysql,postgres,mongodb,oracle,postman&theme=dark" />
 </div>
+
 <br>
 <div align="center">
+  <!-- FIX: Removed the flanking GIFs for a cleaner look, kept the central message -->
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" height="60" />
-    <h3>🌟 Thank you for visiting! Let's innovate together! 🌟</h3>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" height="60" />
+  <h3>🌟 Thank you for visiting! Let's innovate together! 🌟</h3>
 </div>
 <div align="center">
-![](https://hit.yhype.me/github/profile?user_id=133405788)
+  ![](https://hit.yhype.me/github/profile?user_id=133405788)
 </div>
