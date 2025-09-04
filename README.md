@@ -27,10 +27,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🎯 **About Me**
 -   🌱 I'm currently learning **Spring Boot**.
--   👨‍💻 All of my projects are available at **[my portfolio](https://ut-neu-portfolio.netlify.app/)**.
+-   👨‍💻 All of my projects are available at **my portfolio**.
 -   💬 Ask me about **Cloud Computing, DevOps, and Tech Innovations**.
--   📫 How to reach me: **[kumar.work.1574@outlook.com](mailto:kumar.work.1574@outlook.com)**
--   📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1byb9lMrNIAl0cgUYNsaWal9g2agbbwRU/view?usp=sharing)**
+-   📫 How to reach me: **kumar.work.1574@outlook.com**
+-   📄 Know about my experiences: **My Resume**
 -   ⚡ **"Exploring The Digital World One Byte at a Time, where curiosity Meets Innovation"**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🛠️ **My Skill Set**
